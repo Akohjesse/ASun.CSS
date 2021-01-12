@@ -92,6 +92,14 @@ body{
         margin:20%;
     }
 }
+@media (max-width:500px){
+    .menu-list{
+        width:40%;
+    }
+    .menu-list li{
+padding:10px;
+    }
+}
 @media (max-width:350px){
     .menu-list{
         width:40%;
